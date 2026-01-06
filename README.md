@@ -12,4 +12,4 @@ sorry it's 259 hahaha
 hi
 
 ## Local developement
-open html in your browser.
+open html in your browser!
