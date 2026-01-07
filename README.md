@@ -8,9 +8,9 @@ and i have 257 pikmins
 sorry it's 259 hahaha
 
 ## subheader
-<<<<<<< HEAD
+
 i don't know.
-=======
+ 
 
 hi
 
